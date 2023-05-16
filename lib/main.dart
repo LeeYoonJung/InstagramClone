@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:instagram_clone/tab/tabPage.dart';
 
-import 'tab/tab_page.dart';
 
 void main() {
   runApp(const MyApp());
